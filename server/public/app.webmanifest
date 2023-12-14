@@ -1,0 +1,11 @@
+{
+    "name": "TODO list PWA example app for Prime Workship",
+    "short_name": "TODO list PWA example",
+    "start_url": "./",
+    "orientation": "portrait",
+    "theme color": "blue",
+    "scope": "./",
+    "display": "standalone"
+
+
+}
